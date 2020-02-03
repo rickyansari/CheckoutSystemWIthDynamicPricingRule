@@ -1,0 +1,27 @@
+{
+  "product1": {
+    "productId": "product1",
+    "name": "small pizza",
+    "price": 540,
+    "discounts": 260,
+    "imageName": "smallPizza",
+    "purchasedQuantity":0
+  },
+  "product2": {
+    "productId": "product2",
+    "name": "medium pizza",
+    "price": 540,
+    "discounts": 260,
+    "imageName": "mediumPizza",
+    "purchasedQuantity":0
+
+  },
+  "product3": {
+    "productId": "product3",
+    "name": "large pizza",
+    "price": 540,
+    "discounts": 260,
+    "imageName": "largePizza",
+    "purchasedQuantity":0
+  }
+}
